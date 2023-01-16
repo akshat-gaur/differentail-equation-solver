@@ -1,6 +1,10 @@
 This is a differential equation solver which can plot the solution of almost any differential equation using
 
 How to use
+
+
+
+
 The differential equation must be writtern in the form of variables. The class variables is defined in the program
 
 v1=variable(3,0,'x1')
