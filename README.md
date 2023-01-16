@@ -1,4 +1,4 @@
-This is a differential equation solver which can plot the solution of almost any differential equation using
+This is a differential equation solver which can plot the solution of almost any differential equation 
 
 How to use
 
